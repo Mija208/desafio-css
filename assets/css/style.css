@@ -1,0 +1,37 @@
+header{
+    background-image: url("../images/logo\ 6.jfif");
+    height: 300px;
+    width: 1265px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+} 
+header h1{
+    font-size: 35px;
+    color: blue;
+}
+p{
+    text-align: center;}
+
+.section__1{ 
+    width: 300px;
+}
+.section__1 img{
+    width: 100%;
+    border: 1px solid black;
+}
+
+.table{
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+footer {
+    background-color:green;
+    height: 20px;
+    color: white;
+    
+}
